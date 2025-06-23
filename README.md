@@ -1,16 +1,53 @@
-## Hi there 👋
-
-<!--
-**giancarlodumitrachedev/giancarlodumitrachedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- 
+Hi there! This is a special "profile README" for your GitHub page. 
+The stats and badges will update automatically! 
+Just copy, paste, and customize the links. 
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Cy/giphy.gif" width="100"/>
+  <h1>
+    Hi, I'm Giancarlo Dumitrache
+    <a href="https://www.linkedin.com/in/giancarlo-dumitrache-a2a337371/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+  </h1>
+  <h3>A passionate Frontend Developer turning ideas into beautiful, high-performance digital experiences.</h3>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently building and refining my personal portfolio. **[Check it out here!](https://giancarlodumitrachedev.github.io/giancarlodumitrache.dev/)**
+
+- 🌱 I’m currently deepening my knowledge in **GraphQL and advanced web animations**.
+
+- 👯 I’m looking to collaborate on **innovative open-source frontend projects**.
+
+- 💬 Ask me about **React, Next.js, Tailwind CSS, or anything related to web performance**.
+
+- 📫 How to reach me: **giancarlo.dumitrache@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css,js,git,vscode,figma,vercel&perline=5" />
+  </a>
+</p>
+
+---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Giancarlo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=giancarlodumitrachedev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Giancarlo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giancarlodumitrachedev&langs_count=8&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
