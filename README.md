@@ -18,9 +18,9 @@
 
 - 👯 I’m looking to collaborate on **innovative open-source frontend projects**.
 
-- 💬 Ask me about **React, Next.js, Tailwind CSS, or anything related to web performance**.
+- 💬 Ask me about **React, Next.js, Tailwind CSS, HTML or anything related to web performance**.
 
-- 📫 How to reach me: **giancarlo.dumitrache@gmail.com**
+- 📫 How to reach me: **giancarlodumitrachedev@gmail.com**
 
 ---
 
