@@ -5,7 +5,6 @@ Just copy, paste, and customize the links.
 -->
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9hCsO6hlK6Cy/giphy.gif" width="100"/>
   <h1>
     Hi, I'm Giancarlo Dumitrache
     <a href="https://www.linkedin.com/in/giancarlo-dumitrache-a2a337371/" target="_blank">
