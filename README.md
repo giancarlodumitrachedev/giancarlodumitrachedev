@@ -1,9 +1,3 @@
-<!-- 
-Hi there! This is a special "profile README" for your GitHub page. 
-The stats and badges will update automatically! 
-Just copy, paste, and customize the links. 
--->
-
 <div id="header" align="center">
   <h1>
     Hi, I'm Giancarlo Dumitrache
