@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building and refining my personal portfolio. **[Check it out here!](https://giancarlodumitrachedev.github.io/giancarlodumitrache.dev/)**
+- 🔭 I’m currently building and refining my personal portfolio. **[Check it out here!](https://giancarlodumitrache.dev/)**
 
 - 🌱 I’m currently deepening my knowledge in **GraphQL and advanced web animations**.
 
